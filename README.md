@@ -1,4 +1,4 @@
-# Zygisk Next Pro
+# Zygisk Next Pro - warning warning. this is Malware¡!!!!!!!¡
 
 Standalone implementation of Zygisk, providing Zygisk API support for KernelSU. A replacement of Magisk's built-in Zygisk and DenyList.
 
